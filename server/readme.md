@@ -35,7 +35,7 @@
 
 ## ![Gif](./screenshots/7.gif)
 
-## ![Gif](./screenshots/12.gif)
+## ![Gif](./screenshots/8.gif)
 
 ---
 
