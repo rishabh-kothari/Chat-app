@@ -23,10 +23,6 @@
 
 ## ![ScreenShot](./screenshots/3.png)
 
-### User Signup
-
-## ![Gif](./screenshots/5.gif)
-
 ### Search User
 
 ## ![Gif](./screenshots/6.gif)
